@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Verilog2023-1/dc_lib
+vmac
+Z0 !s110 1699110270
+!i10b 1
+!s100 2z@YZ55n2;Mi[`YM>BZ9J1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+II3_H82JDGUVf?jT7SUnj^3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Verilog2023-1/hw3
+w1699109473
+8C:/Verilog2023-1/hw3/mac.v
+FC:/Verilog2023-1/hw3/mac.v
+!i122 2
+L0 1 233
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1699110270.000000
+!s107 C:/Verilog2023-1/hw3/mac.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Verilog2023-1/hw3/mac.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmac_sim
+R0
+!i10b 1
+!s100 lb`Og0B:9QWC0TcB[VO8O1
+R1
+Ihjb;^OP4?MQ2eoAKnRaO33
+R2
+R3
+w1699109475
+8C:/Verilog2023-1/hw3/testfixture.v
+FC:/Verilog2023-1/hw3/testfixture.v
+!i122 3
+L0 36 356
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Verilog2023-1/hw3/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Verilog2023-1/hw3/testfixture.v|
+!i113 1
+R6
+R7

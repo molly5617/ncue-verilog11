@@ -1,0 +1,15 @@
+C:/Verilog2023-1/hw3/testfixture.v {1 {vlog -work work -stats=none C:/Verilog2023-1/hw3/testfixture.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mac_sim
+
+Top level modules:
+	mac_sim
+
+} {} {}} C:/Verilog2023-1/hw3/mac.v {1 {vlog -work work -stats=none C:/Verilog2023-1/hw3/mac.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mac
+
+Top level modules:
+	mac
+
+} {} {}}
