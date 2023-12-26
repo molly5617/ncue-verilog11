@@ -1,0 +1,128 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Verilog2023/lcd_ctrl_syn_stud
+vBUFFER
+Z0 !s110 1703162595
+!i10b 1
+!s100 cnZ;^OF^N2ZR]EbDPXH<81
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IKmh<94?JdML9l[mnaLSDN1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dE:/Verilog2023/B_ICC2012_preliminary_all_cell
+Z4 w1331703434
+Z5 8./flash_a.v
+Z6 F./flash_a.v
+!i122 41
+L0 1636 5
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1703162593.000000
+!s107 ./flash_b.v|./flash_a.v|testfixture.v|
+Z9 !s90 -reportprogress|300|testfixture.v|+define+p2|
+!i113 1
+Z10 !s92 +define+p2
+Z11 tCvgOpt 0
+n@b@u@f@f@e@r
+vflash_a
+R0
+!i10b 1
+!s100 B5@lU4mK?S;]]h?dDG;^W3
+R1
+I:8ST34NzT3l[c0fnfK?D`0
+R2
+R3
+R4
+R5
+R6
+!i122 41
+L0 11 1624
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 ./flash_b.v|./flash_a.v|testfixture.v|
+R9
+!i113 1
+R10
+R11
+vflash_b
+R0
+!i10b 1
+!s100 3Y:h?Zze3QiQ_=L`<V0:D2
+R1
+IHn>cDJzHQjL_C:U9=JR]:0
+R2
+R3
+w1331625830
+8./flash_b.v
+F./flash_b.v
+!i122 41
+L0 3 1622
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
+vNFC
+!s110 1703157811
+!i10b 1
+!s100 W7FYAdzP9m88=NaZkhcm]0
+R1
+IbP8ZX@;`h?SUn=0QO?D4i2
+R2
+R3
+w1703157806
+8E:/Verilog2023/B_ICC2012_preliminary_all_cell/NFC.v
+FE:/Verilog2023/B_ICC2012_preliminary_all_cell/NFC.v
+!i122 38
+L0 2 214
+R7
+r1
+!s85 0
+31
+!s108 1703157811.000000
+!s107 E:/Verilog2023/B_ICC2012_preliminary_all_cell/NFC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Verilog2023/B_ICC2012_preliminary_all_cell/NFC.v|
+!i113 1
+o-work work
+R11
+n@n@f@c
+vtest
+R0
+!i10b 1
+!s100 Bo0H?<V<83j6V[[beZB@d0
+R1
+IFeEU4LLh85n8[:gb_dgZh3
+R2
+R3
+w1331710336
+8testfixture.v
+Ftestfixture.v
+!i122 41
+L0 19 126
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11
