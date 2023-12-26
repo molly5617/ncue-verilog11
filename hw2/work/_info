@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Downloads/avg/verilog/hw2
+vmac
+Z1 !s110 1698232970
+!i10b 1
+!s100 H^gSLfQj^EnIdd>JAQ[g>3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6A49AS;:oIIGYDMmY761d2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1698232319
+8C:/Users/user/Downloads/avg/verilog/hw2/mac_stud123.v
+FC:/Users/user/Downloads/avg/verilog/hw2/mac_stud123.v
+!i122 53
+L0 1 143
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1698232970.000000
+!s107 C:/Users/user/Downloads/avg/verilog/hw2/mac_stud123.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Downloads/avg/verilog/hw2/mac_stud123.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmac_half_tb001
+R1
+!i10b 1
+!s100 U9gBc;^5MHK>mml>7D57z1
+R2
+IB?UJR7jNI0;V:j?z7RUAH2
+R3
+R0
+w1698232964
+8C:/Users/user/Downloads/avg/verilog/hw2/mac_half_tb001.v
+FC:/Users/user/Downloads/avg/verilog/hw2/mac_half_tb001.v
+!i122 54
+L0 11 50
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/user/Downloads/avg/verilog/hw2/mac_half_tb001.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Downloads/avg/verilog/hw2/mac_half_tb001.v|
+!i113 1
+R6
+R7
